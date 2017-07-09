@@ -1,0 +1,13 @@
+﻿  String.cpp
+  Vector.cpp
+c:\users\data\projects\hkutillib\src\hkutillib\core\vector.cpp(187): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+c:\users\data\projects\hkutillib\src\hkutillib\core\vector.cpp(188): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+c:\users\data\projects\hkutillib\src\hkutillib\core\vector.cpp(373): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+c:\users\data\projects\hkutillib\src\hkutillib\core\vector.cpp(374): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+c:\users\data\projects\hkutillib\src\hkutillib\core\vector.cpp(375): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+  Shape.cpp
+  Matrix.cpp
+  Color.cpp
+  Core.cpp
+  Generating Code...
+  HKUtilLib.vcxproj -> C:\Users\data\projects\DXGameEngine\x64\Debug\HKUtilLib.lib
